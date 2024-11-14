@@ -1,10 +1,10 @@
 # 自作キーボード MultipleKeyboard ビルドガイド
 ## MultipleKeyboardとは?
-![https://github.com/ambergon/MultipeGlove/blob/master/img/1.jpg]
-![https://github.com/ambergon/MultipeGlove/blob/master/img/2.jpg]
-![https://github.com/ambergon/MultipeGlove/blob/master/img/3.jpg]
-![https://github.com/ambergon/MultipeGlove/blob/master/img/4.jpg]
-![https://github.com/ambergon/MultipeGlove/blob/master/img/5.jpg]
+![紹介画像1](./img/1.jpg)
+![紹介画像2](./img/2.jpg)
+![紹介画像3](./img/3.jpg)
+![紹介画像4](./img/4.jpg)
+![紹介画像5](./img/5.jpg)
 
 テキストエディターのVim と 白銀ラボ様のKeyball61 に強く影響を受け作ったキーボードです。<br>
 左手のホームポジションを強く意識し、手を大きく動かさずに3つのロータリエンコーダにアクセスすることを重視しています。
