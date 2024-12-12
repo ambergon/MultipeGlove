@@ -247,6 +247,7 @@ MultipleGloveでは、トグルスイッチを使用してレイヤーの変更�
 
 
 ## キットの販売場所
+[【自作キーボードキット】MultipleGlove - 安馬 - BOOTH](https://ambergon.booth.pm/items/6377854)
 
 
 
