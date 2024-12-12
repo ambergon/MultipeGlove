@@ -1,7 +1,7 @@
 # 自作キーボード MultipleGlove BuildGuid
 自作キーボード / MultipleGlove の紹介と作り方
 ![紹介画像6](./thumbnail/thumbnail6.jpg)
-![紹介画像1](./thumbnail/thumbnail1.jpg)
+![紹介画像1](./thumbnail/thumbnail.jpg)
 ![紹介画像2](./thumbnail/thumbnail2.jpg)
 ![紹介画像3](./thumbnail/thumbnail3.jpg)
 ![紹介画像4](./thumbnail/thumbnail4.jpg)
