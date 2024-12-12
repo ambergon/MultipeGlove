@@ -190,11 +190,12 @@ Kailh Choc V1 キースイッチ(別売り)に専用キーキャップを取り�
 
 ## Pro Microに書き込む
 トグルスイッチをすべて右に倒してからUSBでPro MicroとPCを接続し、[MultipleGlove - Remap](https://remap-keys.app/catalog/bEgsaoLpNA3LOYdreG0p/firmware)にアクセスする。
-FLASHボタンを押す。
+FLASHボタンを押す。<br>
 ![](./src/FLASH1.png)
 ![](./src/FLASH2.png)
-初期状態のPro Microを接続するとダイアログが出る。接続ボタンを押す。
-既に何か書き込まれているPro Microを使用する場合はリセットボタンを素早く二回押す。
+<br>
+初期状態のPro Microを接続するとダイアログが出る。接続ボタンを押す。<br>
+既に何か書き込まれているPro Microを使用する場合はリセットボタンを素早く二回押す。<br>
 
 ![](./src/FLASH3.png)
 
