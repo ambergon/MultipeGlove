@@ -55,17 +55,17 @@
 ## キット以外に必要なもの
 |名称                      |個数|入手先                                                                                                  |備考                                                          |
 |--------------------------|----|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-|Pro Micro                 |1   |`https://shop.yushakobo.jp/products/3905?_pos=3&_sid=2d2645273&_ss=r`                                   |Micro B版でも可                                               |
+|Pro Micro                 |1   |`https://shop.yushakobo.jp/products/3905?_pos=3&_sid=2d2645273&_ss=r`                                   ||
 |ロータリーエンコーダ ノブ |1   |`https://shop.yushakobo.jp/products/3733?_pos=1&_sid=b6c41e497&_ss=r`                                   |本キットにはノブは含まれていません。                          |
 |Cherry MX互換キーキャップ |11  |`https://shop.yushakobo.jp/products/6892?_pos=1&_sid=40a929f2d&_ss=r`                                   |MX互換なら何でもよい。リンクは個人的おすすめ                  |
 |Cherry MX互換キースイッチ |11  |`https://shop.yushakobo.jp/products/3754?_pos=2&_sid=762338812&_ss=r`                                   |Durock Silent Linear Dolphinは重くて指をのせても沈みづらい。ホームポジションにおすすめ。|
 |Kailh Choc v1 キースイッチ|1   |`https://shop.yushakobo.jp/products/pg1350`                                                             |あまり押さない場所なので軽いスイッチがおすすめ。|
+|コンスルー                |1   |`https://shop.yushakobo.jp/products/31?srsltid=AfmBOoqSEKSEJ1zkLMcCqmUm71_qwLIZnZuZTLdCreHNjBVHFqgY4oqC`|2.5mmを使用。下部に少し隙間ができます。アクリル板との側面に余裕がない為、コンスルーを使用しない場合ははんだ付けをする前にアクリルプレートを一度組み付けて大きさを確認してください。|
 
 
 ## 必須ではないが追加出来るもの
 |名称                      |個数|入手先                                                                                                  |備考                                 |
 |--------------------------|----|--------------------------------------------------------------------------------------------------------|-------------------------------------|
-|コンスルー                |1   |`https://shop.yushakobo.jp/products/31?srsltid=AfmBOoqSEKSEJ1zkLMcCqmUm71_qwLIZnZuZTLdCreHNjBVHFqgY4oqC`|Pro Microが壊れた際に交換しやすくなる。注意点として外れやすい。このページで使用しているのは2.5mmの物。|
 |Kailh Choc v1 キーソケット|11  |`https://shop.yushakobo.jp/products/a01ps?variant=37665172553889`                                      |ロープロファイル化する場合。|
 |Kailh Choc v1 キーキャップ|11  |`https://shop.yushakobo.jp/products/pg1350cap-blank?_pos=4&_fid=11f56dc3b&_ss=c&variant=37665716240545`|ロープロファイル化する場合。|
 |Kailh Choc v1 キースイッチ|11  |`https://shop.yushakobo.jp/products/pg1350`                                                            |ロープロファイル化する場合。|
@@ -145,7 +145,7 @@ Cherry MX 用のソケットを取り出し、黒い四角でおおわれてい�
 取り付けた後、ニッパーでトグルスイッチの足を根元のあたりで切る。
 ![](./src/16.jpg)
 
-Pro Microを取り付ける。(画像ではコンスルー(別売り)を使用している。)端子側が表側になるようにする。
+Pro Microを取り付ける。端子側が表側になるようにする。
 ![](./src/17.jpg)
 
 
@@ -237,7 +237,7 @@ MultipleGloveでは、トグルスイッチを使用してレイヤーの変更�
 
 
 ## 注意点
-コンスルーを使用する場合、アクリルとの隙間があり、ゆるみやすいです。<br>
+コンスルーとボトムプレートの隙間があり、ゆるみやすいです。<br>
 一部のキーの反応がない場合などは疑ってください。<br>
 <br>
 トグルスイッチをonにしていると、キーがずっと入力判定となっています。<br>
