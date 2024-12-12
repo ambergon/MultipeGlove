@@ -219,7 +219,7 @@ FLASHボタンを押す。<br>
 
 ## MultipleGloveの独自仕様/トグルスイッチ
 MultipleGloveでは、トグルスイッチを使用してレイヤーの変更ができます。<br>
-右に倒すとoff,左に倒すと入力状態となります。
+左に倒すとon、右に倒すとoff 状態となります。
 ![](./src/toggle.jpg)
 
 |上からのスイッチの位置|on|off|
