@@ -56,7 +56,7 @@
 |名称                      |個数|入手先                                                                                                  |備考                                                          |
 |--------------------------|----|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 |Pro Micro                 |1   |`https://shop.yushakobo.jp/products/3905?_pos=3&_sid=2d2645273&_ss=r`                                   ||
-|コンスルー                |2   |`https://shop.yushakobo.jp/products/31?srsltid=AfmBOoqSEKSEJ1zkLMcCqmUm71_qwLIZnZuZTLdCreHNjBVHFqgY4oqC`|12ピン 2.5mmを使用。下部に少し隙間ができます。アクリル板との側面に余裕がない為、コンスルーを使用しない場合ははんだ付けをする前にアクリルプレートを一度組み付けて大きさを確認してください。|
+|コンスルー                |2   |`https://shop.yushakobo.jp/products/31?srsltid=AfmBOoqSEKSEJ1zkLMcCqmUm71_qwLIZnZuZTLdCreHNjBVHFqgY4oqC`|12ピン 3.5mmを推奨。2.5mmでも接続できますが、下部に少し隙間ができます。アクリル板との側面に余裕がない為、コンスルーを使用しない場合ははんだ付けをする前にアクリルプレートを一度組み付けて大きさを確認してください。|
 |ロータリーエンコーダ ノブ |1   |`https://shop.yushakobo.jp/products/3733?_pos=1&_sid=b6c41e497&_ss=r`                                   |本キットにはノブは含まれていません。                          |
 |Cherry MX互換キーキャップ |11  |`https://shop.yushakobo.jp/products/6892?_pos=1&_sid=40a929f2d&_ss=r`                                   |MX互換なら何でもよい。リンクは個人的おすすめ                  |
 |Cherry MX互換キースイッチ |11  |`https://shop.yushakobo.jp/products/3754?_pos=2&_sid=762338812&_ss=r`                                   |Durock Silent Linear Dolphinは重くて指をのせても沈みづらい。ホームポジションにおすすめ。|
@@ -238,6 +238,7 @@ MultipleGloveでは、トグルスイッチを使用してレイヤーの変更�
 
 ## 注意点
 コンスルーとボトムプレートの隙間があり、ゆるみやすいです。<br>
+3.5mmコンスルーだと丁度です。
 一部のキーの反応がない場合などは疑ってください。<br>
 <br>
 トグルスイッチをonにしていると、キーがずっと入力判定となっています。<br>
